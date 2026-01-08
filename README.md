@@ -3,6 +3,8 @@
 This repository contains the **list of Roblox game IDs** that are authorized to use the Federation Anticheat script.  
 If you don’t trust our script — we don’t care. This project is strictly for developers who want to integrate Federation Anticheat into their games.
 
+<img width="4272" height="4272" alt="save it you old bi-" src="https://github.com/user-attachments/assets/f67707dc-4723-4ff5-aae9-a9ca8856cee2" />
+
 ---
 
 > [!INFO]  
