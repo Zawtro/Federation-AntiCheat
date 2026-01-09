@@ -42,8 +42,8 @@ The script checks against this list before running.
 - If the ID matches one in this list, the script runs normally.  
 - If not, the script will refuse to execute.
 
-### 🔑 How to Get Your Place ID
-To request authorization, you’ll need your game’s **Place ID**.  
+### 🔑 How to Get Your Place ID. And Request Permission to Use
+To request authorization, you’ll need your game’s **Place ID**. [Join our Discord Server](https://discord.gg/6mNT7SR8Pv)  
 Run this line of code in Roblox Studio or your game console to retrieve it:
 **RUN IN A COMMAND BAR**
 ```lua
@@ -51,4 +51,4 @@ print(game.PlaceId)
 ```
 ### OR
 use game link
-https://www.roblox.com/games/XXXXXXXXX
+https://www.roblox.com/games/YourGameId
